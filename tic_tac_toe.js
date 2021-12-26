@@ -164,3 +164,7 @@ function Won(){
     }
 
 }
+
+function reset(){
+    window.location.reload();
+}
